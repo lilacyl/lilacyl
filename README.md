@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yinmeng, or You can call me Lilac @lilacyl
-- 💻 This github contains my personal project
-- 🗂 You can view my portfolio here https://lilacyl.github.io/ (currently still under development)
 - 👀 I’m interested in software developement
+- 🗂 You can view my portfolio here https://lilacyl.github.io/ (currently still under development)
+- 🐱 Profile pic is my cat, she says hi
 - 📫 How to reach me: yinmeng2@illinois.edu
 
 <!---
