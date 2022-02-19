@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Yinmeng, or You can call me Lilac @lilacyl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💻 This github contains my personal project
+- 🗂 You can view my portfolio here https://lilacyl.github.io/ (currently still under development)
+- 👀 I’m interested in software developement
 - 📫 How to reach me
   Email: yinmeng2@illinois.edu
-  Phone: 630-965-8617
 
 <!---
 lilacyl/lilacyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
