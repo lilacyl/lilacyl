@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yinmeng, or You can call me Lilac @lilacyl
 - 👀 I’m interested in software engineering
-- 🗂 You can view my portfolio here https://lilacyl.github.io/ (currently still under development)
+- 🗂 You can view my portfolio here https://lilacyl.github.io/
 - 🐱 Profile pic is my cat Char, she likes contributing to this repo as well //////////////////////////////]]]````````````4hgb
 - 📫 How to reach me: yinmeng2@illinois.edu
 
